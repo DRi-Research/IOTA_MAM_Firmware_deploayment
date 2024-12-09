@@ -25,7 +25,7 @@
     "iconv-lite": "^0.4.24",
     "iota.lib.js": "^0.5.2",
     "ipfs-api": "^26.1.2",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "morgan": "~1.9.0",
     "multer": "^1.4.1",
     "passport": "^0.4.0",
